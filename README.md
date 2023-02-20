@@ -11,5 +11,5 @@
 <!-- Dados do GitHub -->
 <div align='center'>
     <a href="https://github.com/zMaffezzoli">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMaffezzoli&layout=compact&langs_count=7&theme=bear"/></a>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMaffezzoli&layout=compact&langs_count=7&theme=dracula"/></a>
 </div>
