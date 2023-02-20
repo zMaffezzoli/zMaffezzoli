@@ -1,16 +1,15 @@
-### Hi there 👋
+<!-- Apresentação inicial -->
+<h1 style="height: 35px" align="left">Olá! Eu sou Bruno Maffezzoli Rodrigues 👋</h1>
 
-<!--
-**zMaffezzoli/zMaffezzoli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Sobre mim -->
+- 👨‍💻 Foco em Back-end
+- <img align='center' alt="Python - Icon" height="20px" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Principal linguagem
+- ✅ Técnico em Informárica
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Dados do GitHub -->
+<div align='center'>
+    <a href="https://github.com/zMaffezzoli">
+    <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMaffezzoli&layout=compact&langs_count=7&theme=bear"/></a>
+</div>
