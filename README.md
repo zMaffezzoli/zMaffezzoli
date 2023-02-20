@@ -13,3 +13,5 @@
     <a href="https://github.com/zMaffezzoli">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMaffezzoli&layout=compact&langs_count=7&theme=bear"/></a>
 </div>
+<!-- Jogo da cobrinha -->
+![Snake animation](https://github.com/zMaffezzoli/zMaffezzoli/blob/output/github-contribution-grid-snake.svg)
