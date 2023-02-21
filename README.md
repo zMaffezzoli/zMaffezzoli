@@ -4,7 +4,7 @@
 <!-- Sobre mim -->
 - 👨‍💻 Foco em Back-end
 - <img align='center' alt="Python - Icon" height="20px" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Principal linguagem
-- ✅ Técnico em Informárica
+- ✅ Técnico em Informática
 
 <br>
 
