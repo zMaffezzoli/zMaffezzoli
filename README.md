@@ -15,3 +15,5 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMaffezzoli&layout=compact&langs_count=7&theme=dracula">
     </a>
 </div>
+
+![snake gif](https://github.com/zMaffezzoli/zMaffezzoli/blob/output/github-contribution-grid-snake.svg)
