@@ -7,16 +7,16 @@
   <img width="41%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMaffezzoli&layout=compact&hide_border=true&title_color=ab0a04&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages"/>
 </div>
 
-### Principais tecnologias
+### Main technologies
 ![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python)
 ![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript)
 
-### Estudando atualmente
+### Currently studying
 ![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=Flask)
 
-### Contate-me
+### Contact me
 <a href="mailto:brunomaffezzolirodrigues0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=Gmail" target="_blank"></a> 
 <a href="https://www.instagram.com/onurb__mffz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=Instagram" target="_blank"></a>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab0a04&height=120&section=footer"/>
