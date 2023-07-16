@@ -1,17 +1,22 @@
-<!-- Apresentação inicial -->
-<h1 style="height: 35px" align="left">Olá! Eu sou Bruno Maffezzoli Rodrigues 👋</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab0a04&height=120&section=header"/>
 
-<!-- Sobre mim -->
-- 👨‍💻 Foco em Back-end
-- <img align='center' alt="Python - Icon" height="20px" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Principal linguagem
-- ✅ Técnico em Informática
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&weight=400&size=45&color=AB0A04&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Bruno+Maffezzoli+Rodrigues;Welcome!+:%29)](https://git.io/typing-svg)
 
-<br>
-
-<!-- Dados do GitHub -->
-<div align='center'>
-    <a href="https://github.com/zMaffezzoli">
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zMaffezzoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="150em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zMaffezzoli&layout=compact&langs_count=7&theme=dracula">
-    </a>
+<div align="center">  
+  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=zMaffezzoli&show_icons=true&count_private=true&hide_border=true&title_color=ab0a04&icon_color=840502&text_color=c9d1d9&bg_color=0d1117" alt="Github stats"/> 
+  <img width="41%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMaffezzoli&layout=compact&hide_border=true&title_color=ab0a04&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages"/>
 </div>
+
+### Principais tecnologias
+![Python](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python)
+![HTML](https://img.shields.io/badge/-HTML-0D1117?style=for-the-badge&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript)
+
+### Estudando atualmente
+![Flask](https://img.shields.io/badge/-Flask-0D1117?style=for-the-badge&logo=Flask)
+
+### Contate-me
+<a href="mailto:brunomaffezzolirodrigues0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=Gmail" target="_blank"></a> 
+<a href="https://www.instagram.com/onurb__mffz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=Instagram" target="_blank"></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab0a04&height=120&section=footer"/>
