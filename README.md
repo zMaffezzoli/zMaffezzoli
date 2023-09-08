@@ -17,6 +17,7 @@
 
   ### Contact me
   <a href="mailto:brunomaffezzolirodrigues0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0D1117?style=for-the-badge&logo=Gmail" target="_blank"></a> 
+  <a href="https://br.linkedin.com/in/bruno-maffezzoli-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0D1117?style=for-the-badge&logo=LinkedIn" target="_blank"></a>
   <a href="https://www.instagram.com/onurb__mffz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0D1117?style=for-the-badge&logo=Instagram" target="_blank"></a>
 </div>
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ab0a04&height=120&section=footer"/>
