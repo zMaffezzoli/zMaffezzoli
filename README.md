@@ -16,7 +16,6 @@
   ![Selenium](https://img.shields.io/badge/-Selenium-0d1117?style=for-the-badge&logo=Selenium)
   ![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=for-the-badge&logo=Pandas)
   ![Pyautogui](https://img.shields.io/badge/-Pyautogui-0d1117?style=for-the-badge&logo=Probot)
-  ![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=openjdk)
   
   ### Contact me
   <a href="mailto:brunomaffezzolirodrigues0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=Gmail" target="_blank"></a> 
