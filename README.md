@@ -12,11 +12,6 @@
   ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
   ![JavaScript](https://img.shields.io/badge/-javascript-0d1117?style=for-the-badge&logo=javascript)
 
-  ### Currently studying
-  ![Selenium](https://img.shields.io/badge/-Selenium-0d1117?style=for-the-badge&logo=Selenium)
-  ![Pandas](https://img.shields.io/badge/-Pandas-0d1117?style=for-the-badge&logo=Pandas)
-  ![Pyautogui](https://img.shields.io/badge/-Pyautogui-0d1117?style=for-the-badge&logo=Probot)
-  
   ### Contact me
   <a href="mailto:brunomaffezzolirodrigues0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=Gmail" target="_blank"></a> 
   <a href="https://br.linkedin.com/in/bruno-maffezzoli-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn" target="_blank"></a>
