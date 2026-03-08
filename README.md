@@ -12,7 +12,7 @@
   ## My Skills
 </div>
 
-<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGprN3JwODRlYnZyYnp1bWVoN2JhZ3Y2Z2NodXl6dzI4am5neTB1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  width="47%" align="right" alt="Computer">
+<img src="computer.gif"  width="47%" align="right" alt="Computer">
 
 ### Core & Back-end
 <img src="https://skillicons.dev/icons?i=python" alt="Python"/>&nbsp;
