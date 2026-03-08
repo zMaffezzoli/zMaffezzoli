@@ -4,7 +4,7 @@
 
 <div align="center">
   <img width="54.28%" src="https://awesome-github-stats.azurewebsites.net/user-stats/zMaffezzoli?cardType=github&theme=nord&fontFamily=Noto%20Sans&preferLogin=false&Background=DD272700&Ring=E8D8C1&Title=E8D8C1&Border=E8D8C1" alt="Github stats"/> 
-  <img width="45%" src="https://github-used-languages.vercel.app/zMaffezzoli" alt="Most Used Languages"/>
+  <img width="45%" src="https://github-used-languages.vercel.app/zMaffezzoli?config=config.json" alt="Most Used Languages"/>
 </div>
 
 <div align="center">

@@ -1,0 +1,10 @@
+{
+    "title": "Most Used Languages",
+    "colors_light_theme" : {
+        "title_color": "#E8D8C1",
+        "text_color" : "#888888",
+        "percentage_color": "#828282",
+        "background_color": "#DD272700",
+        "border_color": "#E8D8C1"
+    }
+}
