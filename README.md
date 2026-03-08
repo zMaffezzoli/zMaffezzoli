@@ -4,7 +4,7 @@
 
 <div align="center">
   <img width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/zMaffezzoli?cardType=github&theme=nord&fontFamily=Noto%20Sans&preferLogin=false&Background=DD272700&Ring=E8D8C1&Title=E8D8C1&Border=E8D8C1" alt="Github stats"/> 
-  <img width="36.25%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zMaffezzoli&theme=transparent&title_color=E8D8C1&text_color=d8dee9&layout=donut&hide=HTML" alt="Most Used Languages"/>
+  <img width="36.25%" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=zMaffezzoli&theme=transparent&title_color=E8D8C1&text_color=d8dee9&layout=donut&border_color=E8D8C1&hide=HTML" alt="Most Used Languages"/>
 </div>
 
 <div align="center">
