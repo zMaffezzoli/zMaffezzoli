@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E8D8C1&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&&pause=1000&weight=400&size=48&color=E8D8C1&center=true&vCenter=true&width=1000&lines=Welcome!+:%29;My+name+is+Bruno,+but+you+can+call+me+zzoli;Learning%2C+breaking%2C+fixing%2C+and+evolving)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&weight=400&size=48&color=E8D8C1&center=true&vCenter=true&width=1000&lines=Welcome!+:%29;My+name+is+Bruno,+but+you+can+call+me+zzoli;Learning%2C+breaking%2C+fixing%2C+and+evolving)](https://git.io/typing-svg)
 
 <div align="center">
   <img width="50%" src="https://awesome-github-stats.azurewebsites.net/user-stats/zMaffezzoli?cardType=github&theme=nord&fontFamily=Helvetica&preferLogin=false&Background=DD272700&Ring=E8D8C1&Title=E8D8C1&Border=E8D8C1" alt="Github stats"/> 
