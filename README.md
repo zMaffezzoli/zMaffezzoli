@@ -1,20 +1,49 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05F2DB&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E8D8C1&height=150&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&&pause=1100&weight=400&size=45&color=05F2DB&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Bruno+Maffezzoli+Rodrigues;Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=VT323&&pause=1000&weight=400&size=48&color=E8D8C1&center=true&vCenter=true&width=1000&lines=Welcome!+:%29;My+name+is+Bruno,+but+you+can+call+me+zzoli;Learning%2C+breaking%2C+fixing%2C+and+evolving)](https://git.io/typing-svg)
 
-<div align="center">  
-  <img width="49%" height="210px" src="https://github-readme-stats.vercel.app/api?username=zMaffezzoli&show_icons=true&count_private=true&hide_border=true&title_color=05F2DB&icon_color=05F2F2&text_color=c9d1d9&bg_color=0d1117" alt="Github stats"/> 
-  <img width="41%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zMaffezzoli&layout=compact&hide_border=true&title_color=05F2DB&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages"/>
-  
-  ### Main technologies
-  ![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=Python)
-  ![HTML](https://img.shields.io/badge/-HTML-0d1117?style=for-the-badge&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-0d1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)
-  ![JavaScript](https://img.shields.io/badge/-javascript-0d1117?style=for-the-badge&logo=javascript)
-
-  ### Contact me
-  <a href="mailto:brunomaffezzolirodrigues0@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-0d1117?style=for-the-badge&logo=Gmail" target="_blank"></a> 
-  <a href="https://br.linkedin.com/in/bruno-maffezzoli-rodrigues/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0d1117?style=for-the-badge&logo=LinkedIn" target="_blank"></a>
-  <a href="https://www.instagram.com/onurb__mffz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-0d1117?style=for-the-badge&logo=Instagram" target="_blank"></a>
+<div align="center">
+  <img width="54.2%" src="https://awesome-github-stats.azurewebsites.net/user-stats/zMaffezzoli?cardType=github&theme=nord&fontFamily=Noto%20Sans&preferLogin=false&Background=DD272700&Ring=E8D8C1&Title=E8D8C1&Border=E8D8C1" alt="Github stats"/> 
+  <img width="45%" src="https://github-used-languages.vercel.app/zMaffezzoli" alt="Most Used Languages"/>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=05F2DB&height=120&section=footer"/>
+
+<div align="center">
+
+  ## My Skills
+</div>
+
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGprN3JwODRlYnZyYnp1bWVoN2JhZ3Y2Z2NodXl6dzI4am5neTB1dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"  width="47%" align="right" alt="Computer">
+
+### Core & Back-end
+<img src="https://skillicons.dev/icons?i=python" alt="Python"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=java" alt="Java"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" alt="Flask"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=django" alt="Django"/>
+
+### Front-end
+<img src="https://skillicons.dev/icons?i=html" alt="HTML"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=css" alt="CSS3"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
+
+### Database
+<img src="https://skillicons.dev/icons?i=sqlite" alt="SQLite"/>
+
+### Tools & Others
+<img src="https://skillicons.dev/icons?i=linux" alt="Linux"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=git" alt="Git"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vim" alt="Vim"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" alt="Vscode"/>&nbsp;
+<img src="https://skillicons.dev/icons?i=idea" alt="IntelliJ IDEA"/>
+
+<div align="center">
+
+  ## Currently Learning
+  <img src="https://skillicons.dev/icons?i=c" alt="C"/>&nbsp;
+  <img src="https://skillicons.dev/icons?i=cpp" alt="C++"/>
+
+  ## Contact me
+  <a href="mailto:brunomaffezzolirodrigues0@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" alt="Gmail"></a>&nbsp;
+  <a href="https://br.linkedin.com/in/bruno-maffezzoli-rodrigues/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.instagram.com/onurb__mffz/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram"></a>
+</div>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=E8D8C1&height=150&section=footer"/>
